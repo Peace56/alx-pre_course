@@ -1,0 +1,4 @@
+:git pull > up_to_date
+git status
+
+echo :git pull
